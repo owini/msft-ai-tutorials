@@ -14,10 +14,6 @@
 
 # Artificial Intelligence for Beginners - A Curriculum
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](./lessons/sketchnotes/ai-overview.png)|
-|:---:|
-| AI For Beginners - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |
-
 Explore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesson curriculum!  It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI
 
 
